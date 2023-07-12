@@ -9,7 +9,7 @@ I'm a 36-year-old web development student currently studying at DCI. I'm a fun a
 - **JavaScript**: :atom_symbol:
 - **React**: ⚛️
 - **Node.js**: 🚀
-- - **Python**: 🐍
+- **Python**: 🐍
 
 ## About Me
 
@@ -20,7 +20,7 @@ I have always been fascinated by the world of web development and the power it h
 Here are some of the projects I've been working on recently:
 
 - Project 1: [MAT Project DCI](https://github.com/chimikoo/DCI_final_MAT)
-  - A brief description of the project and your role.
+  - My first website ever made. Using simple HTML, CSS and Javascript along with some libarys.
 
 Feel free to explore my GitHub repositories to see more of my work!
 
@@ -28,8 +28,7 @@ Feel free to explore my GitHub repositories to see more of my work!
 
 I'm always open to new opportunities and collaborations. If you have any questions, suggestions, or just want to connect, feel free to reach out to me:
 
-- GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- Email: your.email@example.com
+- GitHub: [@chimikoo](https://github.com/chimikoo)
+- Email: per-emil.johansson@dci-student.org
 
 Let's build something awesome together! 🚀
