@@ -9,7 +9,6 @@ I'm a 36-year-old web development student currently studying at DCI. I'm a fun a
 - **JavaScript**: :atom_symbol:
 - **React**: ⚛️
 - **Node.js**: 🚀
-- **Python**: 🐍
 
 ## About Me
 
