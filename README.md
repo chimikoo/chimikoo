@@ -19,8 +19,11 @@ I have always been fascinated by the world of web development and the power it h
 Here are some of the projects I've been working on recently:
 
 - Project 1: [MAT Project DCI](https://github.com/chimikoo/DCI_final_MAT)
-  - My first website ever made. Using simple HTML, CSS and Javascript along with some libarys.
+  - My first website ever made. Using simple HTML, CSS and Javascript along with some libaries.
 
+- Project 2: [Full-Stack Project DCI](https://github.com/chimikoo/R_POS)
+  - My first Full stack project made from scratch
+    
 Feel free to explore my GitHub repositories to see more of my work!
 
 ## Get in Touch
