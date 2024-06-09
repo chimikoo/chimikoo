@@ -1,13 +1,14 @@
 # Hi there! 👋
 
-I'm a 36-year-old web development student currently studying at DCI. I'm a fun and easy-going guy with a passion for coding and learning new technologies. Here's a glimpse of what I'm currently working on:
+I'm a 37-year-old web development student currently studying at DCI. I'm a fun and easy-going guy with a passion for coding and learning new technologies. Here's a glimpse of what I'm currently working on:
 
 ## Skills and Technologies
 
 - **HTML**: 🌐
 - **CSS**: 💅
-- **JavaScript**: :atom_symbol:
+- **JavaScript**: ⚛️
 - **React**: ⚛️
+- **React Native**: ⚛️
 - **Node.js**: 🚀
 
 ## About Me
